@@ -1,0 +1,24 @@
+#cont1{
+    margin-top: 50px;
+    background-color: #03A9F4;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+.btn{
+    margin-left:40px;
+}
+
+ul{
+    list-style-type: none;
+}
+#close{
+    color: #fff;
+    font-size: 1.5rem;
+    background-color: black;
+    padding: 2px 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#close:hover{
+    background-color: rgb(34, 34, 34);   
+}
